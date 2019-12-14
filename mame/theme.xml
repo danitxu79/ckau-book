@@ -19,6 +19,11 @@ M.A.M.E jest emulatorem przeznaczonym do odtworzenia sprzętu systemów gier zr�
 Написано в : C++
 
 MAME — эмулятор, разработанный для воссоздания электронного оборудования аркадных автоматов, с целью сохранения истории игр и предотвращения исчезновения старых игр.</text>
+			<text lang="es">Fabricante : Nicola Salmoria y el Equipo MAME
+Primera versión : 5 февраля 1997
+Escrita en : C++
+
+M.A.M.E. es un emulador, una aplicación diseñada para recrear el hardware de los sistemas de videojuegos arcade en los actuales ordenadores y otras plataformas</text>
 			<pos>0.03 0.76</pos>
 			<size>0.40 0.20</size>
 			<lineSpacing>1.1</lineSpacing>

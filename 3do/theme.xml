@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Panasonic, Sanyo, GoldStar</text>
 			<text lang="de">Hersteller : Panasonic, Sanyo, GoldStar</text>
 			<text lang="ru">Производитель : Panasonic, Sanyo, GoldStar</text>
+			<text lang="es">Fabricante : Panasonic, Sanyo, GoldStar</text>
 			<pos>0.03 0.76</pos>
 		</text>
 		<text name="info2" extra="true">
@@ -16,6 +17,7 @@
 			<text lang="fr">Année de sortie : 1993</text>
 			<text lang="de">Jahr der Veröffentlichung : 1993</text>
 			<text lang="ru">Год выпуска : 1993</text>
+			<text lang="es">Año de fabricación : 1993</text>
 			<pos>0.03 0.78</pos>
 		</text>
 		<text name="info3" extra="true">
@@ -24,6 +26,7 @@
 			<text lang="fr">OS : Multitasking 32-bit OS</text>
 			<text lang="de">OS : Multitasking 32-bit OS</text>
 			<text lang="ru">Опер. система : Multitasking 32-bit OS</text>
+			<text lang="es">Sistema Operativo : Multitasking 32-bit OS</text>
 			<pos>0.03 0.80</pos>
 		</text>
 	</view>
