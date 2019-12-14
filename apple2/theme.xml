@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Apple Computer, Inc</text>
 			<text lang="de">Hersteller : Apple Computer, Inc</text>
 			<text lang="ru">Производитель : Apple Computer, Inc</text>
+			<text lang="es">Fabricante : Apple Computer, Inc</text>
 			<pos>0.03 0.76</pos>
 			<color>262626</color>
 		</text>
@@ -17,6 +18,7 @@
 			<text lang="fr">Année de sortie : 1977</text>
 			<text lang="de">Jahr der Veröffentlichung : 1977</text>
 			<text lang="ru">Год выпуска : 1977</text>
+			<text lang="es">Año de fabricación : 1977</text>
 			<pos>0.03 0.78</pos>
 			<color>262626</color>
 		</text>
@@ -26,6 +28,7 @@
 			<text lang="fr">OS : Integer BASIC</text>
 			<text lang="de">OS : Integer BASIC</text>
 			<text lang="ru">Опер. система : Integer BASIC</text>
+			<text lang="es">Sistema Operativo : Integer BASIC</text>
 			<pos>0.03 0.80</pos>
 			<color>262626</color>
 		</text>

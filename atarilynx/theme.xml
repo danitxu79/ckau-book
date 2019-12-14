@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Epyx / Atari</text>
 			<text lang="de">Hersteller : Epyx / Atari</text>
 			<text lang="ru">Производитель : Epyx / Atari</text>
+			<text lang="es">Fabricante : Epyx / Atari</text>
 			<pos>0.03 0.76</pos>
 		</text>
 		<text name="info2" extra="true">
@@ -16,6 +17,7 @@
 			<text lang="fr">Année de sortie : 1989</text>
 			<text lang="de">Jahr der Veröffentlichung : 1989</text>
 			<text lang="ru">Год выпуска : 1989</text>
+			<text lang="es">Año de fabricación : 1989</text>
 			<pos>0.03 0.78</pos>
 		</text>
 		<text name="info3" extra="true">
@@ -24,6 +26,7 @@
 			<text lang="fr">Unités vendues : 1 million</text>
 			<text lang="de">Einheiten verkauft : 1 million</text>
 			<text lang="ru">Продано : 1 миллион</text>
+			<text lang="es">Unidades vendidas : 1 millón</text>
 			<pos>0.03 0.80</pos>
 		</text>
 	</view>

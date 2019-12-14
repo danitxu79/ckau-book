@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Atari Corporation</text>
 			<text lang="de">Hersteller : Atari Corporation</text>
 			<text lang="ru">Производитель : Atari Corporation</text>
+			<text lang="es">Fabricante : Atari Corporation</text>
 			<pos>0.03 0.76</pos>
 		</text>
 		<text name="info2" extra="true">
@@ -16,6 +17,7 @@
 			<text lang="fr">Année de sortie : 1985</text>
 			<text lang="de">Jahr der Veröffentlichung : 1985</text>
 			<text lang="ru">Год выпуска : 1985</text>
+			<text lang="es">Año de fabricación : 1985</text>
 			<pos>0.03 0.78</pos>
 		</text>
 		<text name="info3" extra="true">
@@ -24,6 +26,7 @@
 			<text lang="fr">OS : Atari TOS</text>
 			<text lang="de">OS : Atari TOS</text>
 			<text lang="ru">Опер. система : Atari TOS</text>
+			<text lang="es">Sistema Operativo : Atari TOS</text>
 			<pos>0.03 0.80</pos>
 		</text>
 	</view>
