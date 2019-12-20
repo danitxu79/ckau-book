@@ -78,6 +78,23 @@ based:      Alekfull Bello v2, Art Book and Carbon
 		<gridDetailsViewName>Raster + Detailliert</gridDetailsViewName>
 		<NoVideoDetailsViewName>Detailliert - Video</NoVideoDetailsViewName>
 	</variables>
+	<variables lang="es">
+		<subset.colorset></subset.colorset>
+		<blue>Azúl</blue>
+		<red>Rojo</red>
+		<green>Verde</green>
+		<subset.systemview></subset.systemview>
+		<subset.aspect_ratio></subset.aspect_ratio>
+		<swheel></swheel>
+		<svertical></svertical>
+		<scenter></scenter>
+		<carouselViewName>Carrusel</carouselViewName>
+		<carouselDetailsViewName>Carrusel + Detalles</carouselDetailsViewName>
+		<tilesViewName>Titulos</tilesViewName>
+		<tilesVideoViewName>Titulos + Videos</tilesVideoViewName>
+		<gridDetailsViewName>Cuadricula + Detalles</gridDetailsViewName>
+		<NoVideoDetailsViewName>Detalles - Videos</NoVideoDetailsViewName>
+	</variables>
 
 	<include subset="colorset" name="blue" displayName="${blue}">./_inc/colors/blue.xml</include>
 	<include subset="colorset" name="red" displayName="${red}">./_inc/colors/red.xml</include>
@@ -170,6 +187,7 @@ based:      Alekfull Bello v2, Art Book and Carbon
 			<text lang="fr">Sélectionnez le système</text>
 			<text lang="de">Wählen Sie System</text>
 			<text lang="ru">Выбор системы</text>
+			<text lang="es">Selecciona el sistema</text>
 			<backgroundColor>14141400</backgroundColor>
 			<color>FFFFFF</color>
 			<fontPath>./_inc/fonts/ubuntu_condensed.ttf</fontPath>
@@ -212,6 +230,7 @@ based:      Alekfull Bello v2, Art Book and Carbon
 			<text lang="fr">LANCER</text>
 			<text lang="de">STARTEN</text>
 			<text lang="ru">ЗАПУСК</text>
+			<text lang="es">INICIAR</text>
 			<fontPath>./_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
@@ -223,6 +242,7 @@ based:      Alekfull Bello v2, Art Book and Carbon
 			<text lang="fr">FAVORI</text>
 			<text lang="de">LIEBLINGS</text>
 			<text lang="ru">ИЗБРАННОЕ</text>
+			<text lang="es">FAVORITO</text>
 			<fontPath>./_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
@@ -234,6 +254,7 @@ based:      Alekfull Bello v2, Art Book and Carbon
 			<text lang="fr">ALÉATOIRE</text>
 			<text lang="de">ZUFALL</text>
 			<text lang="ru">РАНДОМ</text>
+			<text lang="es">AZAR</text>
 			<fontPath>./_inc/fonts/ubuntu_condensed.ttf</fontPath>
 			<color>666666</color>
 			<fontSize>0.025</fontSize>
