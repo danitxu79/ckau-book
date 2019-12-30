@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Bandaï</text>
 			<text lang="de">Hersteller : Bandaï</text>
 			<text lang="ru">Производитель : Bandaï</text>
+			<text lang="es">Fabricante : Bandaï</text>
 			<pos>0.03 0.76</pos>
 		</text>
 		<text name="info2" extra="true">
@@ -16,6 +17,7 @@
 			<text lang="fr">Année de sortie : 1999</text>
 			<text lang="de">Jahr der Veröffentlichung : 1999</text>
 			<text lang="ru">Год выпуска : 1999</text>
+			<text lang="es">Año de lanzamiento : 1999</text>
 			<pos>0.03 0.78</pos>
 		</text>
 		<text name="info3" extra="true">
@@ -24,6 +26,7 @@
 			<text lang="fr">Unités vendues : 3.5 million</text>
 			<text lang="de">Einheiten verkauft : 3.5 million</text>
 			<text lang="ru">Продано : 3.5 миллиона</text>
+			<text lang="es">Unidades vendidas : 3.5 millones</text>
 			<pos>0.03 0.80</pos>
 		</text>
 	</view>

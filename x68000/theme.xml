@@ -8,6 +8,7 @@
 			<text lang="fr">Constructeur : Sharp</text>
 			<text lang="de">Hersteller : Sharp</text>
 			<text lang="ru">Производитель : Sharp</text>
+			<text lang="es">Fabricante : Sharp</text>
 			<pos>0.03 0.76</pos>
 			<color>262626</color>
 		</text>
@@ -17,6 +18,7 @@
 			<text lang="fr">Année de sortie : 1987</text>
 			<text lang="de">Jahr der Veröffentlichung : 1987</text>
 			<text lang="ru">Год выпуска : 1987</text>
+			<text lang="es">Año de lanzamiento : 1987</text>
 			<pos>0.03 0.78</pos>
 			<color>262626</color>
 		</text>
@@ -26,6 +28,7 @@
 			<text lang="fr">OS : Human68k</text>
 			<text lang="de">OS : Human68k</text>
 			<text lang="ru">Опер. система : Human68k</text>
+			<text lang="es">Sistema Operativo : Human68k</text>
 			<pos>0.03 0.80</pos>
 			<color>262626</color>
 		</text>

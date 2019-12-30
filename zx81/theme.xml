@@ -1,4 +1,42 @@
 <theme>
    <formatVersion>4</formatVersion>
    <include>./../theme.xml</include>
+ 	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Sinclair Research</text>
+			<text lang="pl">Producent : Sinclair Research</text>
+			<text lang="fr">Constructeur : Sinclair Research</text>
+			<text lang="de">Hersteller : Sinclair Research</text>
+			<text lang="ru">Производитель : Sinclair Research</text>
+			<text lang="es">Fabricante : Sinclair Research</text>
+			<pos>0.03 0.76</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1981</text>
+			<text lang="pl">Rok wydania : 1981</text>
+			<text lang="fr">Année de sortie : 1981</text>
+			<text lang="de">Jahr der Veröffentlichung : 1981</text>
+			<text lang="ru">Год выпуска : 1981</text>
+			<text lang="es">Año de lanzamiento : 1981</text>
+			<pos>0.03 0.78</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Sinclair BASIC</text>
+			<text lang="pl">System operacyjny : Sinclair BASIC</text>
+			<text lang="fr">OS : Sinclair BASIC</text>
+			<text lang="de">OS : Sinclair BASIC</text>
+			<text lang="ru">Опер. система : Sinclair BASIC</text>
+			<text lang="es">Sistema Operativo : Sinclair BASIC</text>
+			<pos>0.03 0.80</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>Units sold : 1.5 million</text>
+			<text lang="pl">Sprzedano : 1.5 milionów</text>
+			<text lang="fr">Unités vendues : 1.5 million</text>
+			<text lang="de">Einheiten verkauft : 1.5 million</text>
+			<text lang="ru">Продано : 1.5 миллионов</text>
+			<text lang="es">Unidades vendidas : 1.5 millones</text>
+			<pos>0.03 0.82</pos>
+		</text>
+	</view>
 </theme>

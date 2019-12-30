@@ -1,5 +1,42 @@
 <theme>
    <formatVersion>4</formatVersion>
    <include>./../theme.xml</include>
- 
+ 	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<text lang="pl">Producent : Nintendo</text>
+			<text lang="fr">Constructeur : Nintendo</text>
+			<text lang="de">Hersteller : Nintendo</text>
+			<text lang="ru">Производитель : Nintendo</text>
+			<text lang="es">Fabricante : Nintendo</text>
+			<pos>0.03 0.76</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 2017</text>
+			<text lang="pl">Rok wydania : 2017</text>
+			<text lang="fr">Année de sortie : 2017</text>
+			<text lang="de">Jahr der Veröffentlichung : 2017</text>
+			<text lang="ru">Год выпуска : 2017</text>
+			<text lang="es">Año de lanzamiento : 2017</text>
+			<pos>0.03 0.78</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Wii U System Software</text>
+			<text lang="pl">System operacyjny : Wii U System Software</text>
+			<text lang="fr">OS : Wii U System Software</text>
+			<text lang="de">OS : Wii U System Software</text>
+			<text lang="ru">Опер. система : Wii U System Software</text>
+			<text lang="es">Sistema Operativo : Wii U System Software</text>
+			<pos>0.03 0.80</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>Units sold : 13 million</text>
+			<text lang="pl">Sprzedano : 13 milionów</text>
+			<text lang="fr">Unités vendues : 13 million</text>
+			<text lang="de">Einheiten verkauft : 13 million</text>
+			<text lang="ru">Продано : 13 миллионов</text>
+			<text lang="es">Unidades vendidas : 13 millones</text>
+			<pos>0.03 0.82</pos>
+		</text>
+	</view>
 </theme>
